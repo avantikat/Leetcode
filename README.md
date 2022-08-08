@@ -1,4 +1,4 @@
 # Leetcode
 
-solve SQL query
+solve MYSQL database query
 leetcode: https://leetcode.com/problemset/database/?page=1
