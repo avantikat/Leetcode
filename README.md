@@ -1,1 +1,3 @@
 # Leetcode
+
+solve SQL query
