@@ -19,4 +19,5 @@ Return the result table in any order.
 SQL QUERY FOR ABOVE STATEMNENT:
 
 SELECT * FROM patients
-WHERE conditions like '%DIAB1%'
+WHERE conditions like '% DIAB1%' OR  
+conditions like 'DIAB1%'
